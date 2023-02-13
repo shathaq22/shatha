@@ -1,0 +1,16 @@
+#includ <iostream>
+#includ <iomanip>
+
+using namrspace std;
+
+int main()
+
+{
+       int x;
+       cout << "what is your name?" << endl;
+       cin >> x;
+       
+       system("pause");
+       return 0;
+       
+}
